@@ -1,2 +1,5 @@
-# Python-Basics-Learning
-A repository to document my learning journey in Python with basic operations, variables, data types, conditionals, and loops
+Variables and Data Types
+Basic Operations
+Data Structures: Lists and Dictionaries
+Conditionals (If-Else Statements)
+Loops
